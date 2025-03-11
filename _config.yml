@@ -1,11 +1,11 @@
-title: Website Title
+title: Candace's Book2
 
 description: >
-  Website Description
+  Updates on books
 
 author:
-  name: Name
-  email: your-email@domain.com
+  name: Candace Pope
+  email: candacepope520@gmail.com
 
 nav_pages:
   - about.md
